@@ -58,7 +58,7 @@
 
 ![TelaHomeUs](./imgs/img1us.png)
 
-#### Completed Activities: Completed activities are displayed in individual cards, each containing only a title and a button to unmark as completed.
+#### Completed Activities: Completed activities are displayed in individual cards, each containing only a title and a button to mark as undone.
 
 ![TelaHomeUs2](./imgs/img2us.png)
 
